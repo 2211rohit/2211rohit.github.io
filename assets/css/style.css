@@ -128,10 +128,7 @@ color:rgb(0, 0, 0);
   content:url('../img/smile.jpg');  /*SMILE IMAGE URL  - RIGHT SIDE IMAGE*/
   cursor:pointer;
 }
-#home-sec .main-img-2:hover {
-  content:url('../img/sad.jpg');  /*SAD IMAGE URL ON HOVER - RIGHT SIDE IMAGE*/
-  cursor:pointer;
-}
+
  
 
 #home-sec h1 {
